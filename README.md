@@ -1,7 +1,7 @@
 # TreasAR-Hunt
 Code template for an augmented reality based treasure hunt game
 
-This repository contains the reference to the assets and scripts of the augmented reality based treasure hunt game, which we call TreasAR Hunt.
+TreasAR Hunt is a treasure hunt game developed using Unity 2018.3.6f1 and Vuforia for AR operations. This repository contains the reference to the assets and scripts of the augmented reality based treasure hunt game.
 
 ## Instructions
 
